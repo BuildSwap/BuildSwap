@@ -1,8 +1,20 @@
-# Hi, I'm Raghav Garg 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light_logo.png">
+    <img src="./assets/light_logo.png" alt="BuildSwap Logo" width="340">
+  </picture>
+</p>
 
-I'm an AI & ML graduate from **Maharaja Agrasen Institute of Technology (MAIT), GGSIPU** and the founder of **BuildSwap**.
+<h1 align="center">Hi, I'm Raghav Garg 👋</h1>
 
-I'm passionate about building technology products that solve real-world problems. My current focus is developing BuildSwap—a marketplace for buying and selling software businesses. Throughout this journey, I've been leveraging modern AI development tools to accelerate development, improve engineering workflows, and learn continuously while building a production-oriented product.
+<p align="center">
+Founder of <strong>BuildSwap</strong> • AI & ML Graduate from <strong>Maharaja Agrasen Institute of Technology (MAIT)</strong>
+</p>
+
+<p align="center">
+Building technology products with AI, modern software engineering, and a passion for solving real-world problems.
+</p>
 
 ---
 
@@ -10,23 +22,33 @@ I'm passionate about building technology products that solve real-world problems
 
 ## BuildSwap
 
-**BuildSwap** is a marketplace where founders and developers can buy and sell digital businesses, including:
+BuildSwap is a marketplace for buying and selling software businesses.
 
-- SaaS
-- AI Products
-- Mobile Apps
-- Chrome Extensions
-- APIs
-- Developer Tools
-- Source Code Businesses
+Whether you're looking to acquire or sell a SaaS product, AI tool, mobile app, Chrome extension, API, developer tool, or source code business, BuildSwap is designed to make the process simpler, more transparent, and more secure.
 
-The platform is currently available in **Beta**.
+The platform is currently in **Beta** and is being actively improved with a strong focus on security, scalability, and user experience.
 
 🌐 **Website:** https://buildswap.online
 
 ---
 
-# 🛠 Technologies I'm Working With
+# 💡 About Me
+
+I'm an AI & ML graduate who enjoys turning ideas into real products.
+
+My interests lie at the intersection of:
+
+- Artificial Intelligence
+- Product Development
+- Software Architecture
+- Startup Building
+- AI-Assisted Software Engineering
+
+I believe AI is transforming the way software is built, and I'm passionate about learning how developers can combine human creativity with AI to build better products faster.
+
+---
+
+# 🛠 Technologies
 
 ### Frontend
 
@@ -40,7 +62,7 @@ The platform is currently available in **Beta**.
 - Supabase
 - PostgreSQL
 
-### Tools
+### Infrastructure & Tools
 
 - Git & GitHub
 - Netlify
@@ -51,43 +73,56 @@ The platform is currently available in **Beta**.
 
 # 🤖 AI-Assisted Development
 
-One of the most exciting parts of my journey has been using AI throughout the software development lifecycle.
+BuildSwap has been developed using an AI-assisted engineering workflow.
 
-I use AI development tools for:
+I use AI throughout the software development lifecycle to support:
 
-- Architecture planning
+- Product planning
+- Architecture design
 - Sprint planning
 - Feature implementation
 - Documentation
 - Code reviews
 - Testing & QA
 - Technical debt analysis
-- Production readiness reviews
+- Production readiness
 
-Rather than replacing engineering, I believe AI is most valuable as a collaborative tool that helps developers build faster while maintaining quality.
-
----
-
-# 🌱 Currently Exploring
-
-- AI Software Engineering
-- Product Development
-- Marketplace Architecture
-- System Design
-- Startup Building
+I see AI not as a replacement for engineering, but as a collaborative tool that helps accelerate development while maintaining thoughtful design and high engineering standards.
 
 ---
 
-# 🎯 My Goal
+# 🎯 Current Focus
 
-I'm focused on building products that combine thoughtful user experiences with scalable architecture, practical AI workflows, and continuous learning.
+My current priorities include:
+
+- Improving BuildSwap through beta feedback
+- Building scalable and secure software systems
+- Exploring practical applications of AI in software engineering
+- Continuously learning and improving as a founder and builder
+
+---
+
+# 🌱 Looking Ahead
+
+My goal is to build products that solve meaningful problems through thoughtful design, scalable technology, and practical applications of AI.
+
+BuildSwap is the first step in that journey, and I'm excited to continue learning, building, and sharing what I discover along the way.
 
 ---
 
 # 📫 Connect
 
-🌐 Website: https://buildswap.online
+🌐 **Website**  
+https://buildswap.online
 
-💻 GitHub: https://github.com/BuildSwap
+📧 **Email**  
+hello@buildswap.online
 
-Thanks for stopping by!
+💻 **GitHub**  
+https://github.com/BuildSwap
+
+---
+
+<p align="center">
+Thanks for visiting my profile! 🚀
+</p>
